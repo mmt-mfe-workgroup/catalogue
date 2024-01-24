@@ -30,20 +30,6 @@ const StyledProduct = styled.div`
     max-height: 150px; 
     margin-bottom: 10px;
   }
-
-  button {
-    background-color: #4caf50;
-    color: #fff;
-    padding: 8px 16px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-
-    &:hover {
-      background-color: #45a049;
-    }
-  }
 `;
 
 export default StyledProduct;

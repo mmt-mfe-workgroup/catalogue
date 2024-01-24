@@ -8,6 +8,9 @@ const fed = () => federation({
   exposes: {
       './App': './src/RemoteApp',
   },
+  remotes: {
+    UI: "https://rude-clouds.surge.sh/assets/remoteEntry.js",
+},
   shared: ['react', 'react-dom']
 })
 
