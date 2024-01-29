@@ -41,4 +41,4 @@ window.addEventListener('addToBasket', console.log)
 
 The product details are found in detail.product
 
-![alt text](https://github.com/h-gomez/mmt-mfe-basket/blob/master/mfe-image.png?raw=true)
+![alt text](https://github.com/mmt-mfe-workgroup/catalogue/blob/main/payloadImage.png)
