@@ -29,7 +29,12 @@ To use then:
 catalogue().then(app => app.default("catalogue")).catch(() => console.log("issue with loading catalogue"))
 ```
 
-Window Event(s) Fired
+## APP Visual
+
+
+
+
+## Window Event(s) Fired
 
 EVENT_FIRED: `addToBasket`
 
