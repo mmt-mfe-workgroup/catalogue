@@ -9,7 +9,8 @@ const fed = () => federation({
       './App': './src/RemoteApp',
   },
   remotes: {
-    UI: "https://useless-distribution.surge.sh/assets/remoteEntry.js",
+    // UI: "https://useless-distribution.surge.sh/assets/remoteEntry.js",
+    UI: "https://mmt-mfe-ui-button.netlify.app/assets/remoteEntry.js"
 },
   shared: ['react', 'react-dom']
 })
