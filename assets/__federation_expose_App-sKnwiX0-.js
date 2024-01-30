@@ -1,0 +1,1 @@
+import{importShared as o}from"./__federation_fn_import-NG1dFANy.js";import{j as r,A as m}from"./App-h1sdChEq.js";const a=await o("react-dom"),n=t=>{const e=document.getElementById(t);a.render(r.jsx(m,{}),e)};export{n as default};
